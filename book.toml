@@ -1,0 +1,16 @@
+[book]
+title = "NoteBook"
+authors = ["Ben Falk"]
+description = "Notes, Scribbles, Examples, Ideas, etc..."
+src = "src"
+
+[output.html]
+default-theme = "rust"
+preferred-dark-theme = "navy"
+no-section-label = true
+git-repository-url = "https://github.com/benfalk/note-book/"
+edit-url-template = "https://github.com/benfalk/note-book/edit/main/{path}"
+
+[output.html.fold]
+enable = true
+level = 0

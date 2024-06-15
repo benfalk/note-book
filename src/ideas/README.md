@@ -1,0 +1,3 @@
+# Ideas
+
+Sometimes I think things...
